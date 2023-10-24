@@ -1,4 +1,5 @@
-# makan-apa-hari-ini
+# Makan Apa Hari Ini? 
+*What to Eat Today?*
 
 A simple app to shuffle what we're going to eat today.
 
